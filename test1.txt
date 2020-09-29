@@ -1,1 +1,2 @@
 line1 - first change
+line2 - second change
